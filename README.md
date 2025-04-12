@@ -1,4 +1,4 @@
-# LitPipe - Clean Implementation
+# LitPipe - v0 
 
 This is a clean implementation of LitPipe with a direct Python API and web interface.
 
