@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Root level configuration files
-/*.config
+*/config
 /*.cfg
 /*.ini
 /.env
