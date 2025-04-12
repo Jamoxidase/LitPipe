@@ -1,7 +1,5 @@
 # LitPipe - v0 
 
-This is a clean implementation of LitPipe with a direct Python API and web interface.
-
 ## Directory Structure
 
 - `core/` - Core Python API implementation
