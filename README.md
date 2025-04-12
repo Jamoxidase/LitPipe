@@ -65,3 +65,9 @@ Configuration settings are defined in `config.py`, including:
 - Chunking parameters
 - SurrealDB connection settings
 - GROBID URL
+
+To Do:
+Handle figure images
+More context size options
+Access ref fields to map citations
+Smooth it over
