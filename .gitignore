@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Root level configuration files
+/*.config
+/*.cfg
+/*.ini
+/.env
+
+# Project specific directories
+workspace/
+litpipe/parsed/
+litpipe/test_pdf/
+tests/
+
+# Virtual environment
+venv/
+env/
+.env/
